@@ -1,0 +1,45 @@
+body{
+    background-image: url("pexels-jonathan-petersson-399187.jpg");
+    background-color: antiquewhite;
+    background-attachment: fixed;
+    background-size:cover ;
+}
+h1{
+    position: fixed;
+    text-align: center;
+    color: antiquewhite;
+}
+h1:hover{
+    background-color:chartreuse;
+}
+#img-div{
+
+    /* display:block; */
+    position: relative;
+    /* top: 30px; */
+    max-width:16.5%;
+    /* background-color: brown; */
+    background-size: cover;
+    margin:auto;
+}
+#img-caption{
+    width:10%;
+    color: antiquewhite;
+    /* background-color: black; */
+}
+p{
+    width: 50%;
+    /* background-color: blueviolet; */
+    text-align: center;
+    position: relative;
+    left: 350px;
+    color:antiquewhite;
+}
+#tribute-link{
+    text-decoration: none;
+    /* text-align: center; */
+    position: relative;
+    color: crimson;
+    left: 600px;
+    font-size: 20px;
+}
